@@ -1,6 +1,6 @@
-# ausculta
+# AusculSensor
 
-Projeto de um sistema para ausculta pulmonar automatica. Projeto TCC1.
+Projeto de um sistema para ausculta pulmonar. Projeto TCC2.
 
 ## Getting Started
 
