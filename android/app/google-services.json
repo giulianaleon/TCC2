@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912133682168",
+    "project_id": "bd-ausculsensor",
+    "storage_bucket": "bd-ausculsensor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912133682168:android:8236ae735947661e535c0d",
+        "android_client_info": {
+          "package_name": "com.example.ausculta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912133682168-ad99lm1ti1ubmeb0d3vtmv5quc27pk1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVO5qZbxlL1yYrVKY99VPbeUjMFbVsoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912133682168-ad99lm1ti1ubmeb0d3vtmv5quc27pk1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
